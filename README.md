@@ -1,3 +1,6 @@
+# Developed by:A.NIVETHA
+# RegisterNumber: 212222230101
+
 # Experiment--02-Implementation-of-combinational-logic
 Implementation of combinational logic gates
  
