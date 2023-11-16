@@ -54,11 +54,14 @@ endmodule
 ```
 ## Output:
 ## RTL realization
-![image](https://github.com/nivetharajaa/Experiment--02-Implementation-of-combinational-logic-/assets/120543388/f6b7aeef-723f-4893-97bf-676b5853b649)
+![267676863-d7cbaa2e-0fe1-4151-a79d-7139b8f357d7](https://github.com/nivetharajaa/Experiment--02-Implementation-of-combinational-logic-/assets/120543388/c2347d8d-3e6e-4295-a171-7dcca5d11454)
+
 ## Truth table
-![image](https://github.com/nivetharajaa/Experiment--02-Implementation-of-combinational-logic-/assets/120543388/756b089b-9b8d-43b3-a643-3efe65251988)
+![267677533-4bc17bff-6cba-4037-894e-e6dcdb69f131](https://github.com/nivetharajaa/Experiment--02-Implementation-of-combinational-logic-/assets/120543388/f1028978-b33f-4317-959c-7b73d7d47488)
+
 ## waveform
-![image](https://github.com/nivetharajaa/Experiment--02-Implementation-of-combinational-logic-/assets/120543388/39ebfd64-4fe1-4364-9433-79c04d869024)
+![267677756-f8e8c841-b91e-4f4e-ad75-93e7d9732e29](https://github.com/nivetharajaa/Experiment--02-Implementation-of-combinational-logic-/assets/120543388/bbd5476b-f9d4-4b7c-88c8-f0d88a9857cf)
+
 
 # Result:
 Thus the given logic functions are implemented using  and their operations are verified using Verilog programming.
