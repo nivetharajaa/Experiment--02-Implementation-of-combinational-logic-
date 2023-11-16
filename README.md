@@ -5,12 +5,14 @@ Implementation of combinational logic gates
  
 # AIM:
 To implement the given logic function verify its operation in Quartus using Verilog programming.
- F1= A’B’C’D’+AC’D’+B’CD’+A’BCD+BC’D
-F2=xy’z+x’y’z+w’xy+wx’y+wxy
+
+F1= A’B’C’D’+AC’D’+B’CD’+A’BCD+BC’D
  
 # Equipments Required:
-## Hardware – PCs, Cyclone II , USB flasher
-## Software – Quartus prime
+## Hardware 
+PCs, Cyclone II , USB flasher
+## Software 
+Quartus prime
 
 # Theory
 Logic gates are electronic circuits which perform logical functions on one or more inputs to produce one output.
@@ -36,6 +38,7 @@ Logic gates are electronic circuits which perform logical functions on one or mo
 6.Give the respective inputs for timing diagram and obtain the results.
 
 # Program:
+```
 Program to implement the given logic function and to verify its operations in quartus using Verilog programming
 module ex02(a,b,c,d,f1);
 input a,b,c,d;
@@ -48,8 +51,8 @@ assign x4=(~a)&(b)&(c)&(d);
 assign x5=(b)&(~c)&(d);
 assign f1=x1|x2|x3|x4|x5;
 endmodule
-
-# Output:
+```
+## Output:
 ## RTL realization
 ![image](https://github.com/nivetharajaa/Experiment--02-Implementation-of-combinational-logic-/assets/120543388/f6b7aeef-723f-4893-97bf-676b5853b649)
 ## Truth table
